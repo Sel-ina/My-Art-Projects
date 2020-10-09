@@ -59,24 +59,4 @@ I drew both of the top two images for an English final. This was actually the fi
 
 <img src="Mine.png" width=500> 
 
-Lastly, I drew this piece for my beginning art final. This piece took approximately five hours to make and this holds a meaning that is dear to my life. If you know me, you would know that I love sleeping, so in this piece, I drew a person sleeping and the background is the dream that the person is having. I view dreams as an escape from reality; even if your life is awesome, dreams still allow you to try something you can't do in real life! 
-
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lastly, I drew this piece for my beginning art final. This piece took approximately five hours to make and this holds a meaning that is dear to my life. If you know me, you would know that I love sleeping, so in this piece, I drew a person sleeping and the background is the dream that the person is having. I view dreams as an escape from reality; something that will help pass buy time faster when it seems slow and even if your life is awesome, dreams still allow you to do things you can't do in real life, like flying for instance! The person dreaming and the outside world is drawn in dark, monotone colors while the dream world is drawn in vibrant, happyier colors, signifying that the person is not happy in the real world, but is living the life of their most desireable life in their dreams! I admit that this piece isn't my favorite at first glance, but I like the meaning behind it and how I went about drawing the piece! 
