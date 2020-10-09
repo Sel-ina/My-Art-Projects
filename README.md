@@ -1,8 +1,38 @@
-## Welcome to My Art Projects Page!
+# Welcome to My Art Projects Page!
 
-Over the years, I have become more and more invested in the creativity that is art! Art is so freeing, delicately drifting me off to a happy world of comfort when the real world isn't.  Going on with the show, I will be showing off some of the art pieces I am most proud of! Let's GO!
+Over the years, I have become more and more invested in the creativity that is art! Art is so freeing, delicately drifting me off to a happy world of comfort when the real world isn't.  I'm sure many others feel the same way and this is one way I ended up with such amazing pieces of art in the palm of my hands at the end! Going on with the show, I will be showcasing some of my most prized art pieces! Let's gO!
+
+## Paper Mache Boat
+
+<img src="FrontPaperMacheBoat.jpg" width=600> 
+<img src="BackPaperMacheBoat.jpg" width=600>
+
+BLAH BLAH BLAH
+
+## Mosaic Picture Frame 
+
+<img src="PictureFrame.jpg" width=600> 
 
 
+## Clay Mask
+
+<img src="ClayMask.jpg" width=600> 
+
+## Solar Pillow 
+
+<img src="SolarPillow.jpg" width=600> 
+
+## Photography
+
+<img src="WhiteFlowers.JPG" width=600> 
+<img src="RedFlowers.JPG" width=600> 
+<img src="Rainbow.JPG" width=600> 
+
+## Digital Art
+
+<img src="Helplessness.jpg" width=600> 
+<img src="ExternalLocusOfControl.jpg" width=600> 
+<img src="Mine.png" width=600> 
 
 You can use the [editor on GitHub](https://github.com/Sel-ina/My-Art-Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
