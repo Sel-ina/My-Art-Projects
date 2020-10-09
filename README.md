@@ -50,7 +50,8 @@ The last of the three photographs I'm showcasing is this line of rainbow dots I 
 
 ## Digital Art
 
-Last, but not least, of this showcase of art projects, is my digital art. I used a free drawing program called [Krita](https://krita.org/en/) to help me make these pieces! 
+Last, but not least, of this showcase of art projects, is my digital art. I used a free drawing program called [Krita](https://krita.org/en/) to help me make these final pieces!
+
 <img src="Helplessness.jpg" width=500> 
 <img src="ExternalLocusOfControl.jpg" width=500> 
 
@@ -58,7 +59,7 @@ I drew both of the top two images for an English final. This was actually the fi
 
 <img src="Mine.png" width=500> 
 
-Lastly, I drew this piece for my beginning art final. 
+Lastly, I drew this piece for my beginning art final. This piece took approximately five hours to make and this holds a meaning that is dear to my life. If you know me, you would know that I love sleeping, so in this piece, I drew a person sleeping and the background is the dream that the person is having. I view dreams as an escape from reality; even if your life is awesome, dreams still allow you to try something you can't do in real life! 
 
 
 
