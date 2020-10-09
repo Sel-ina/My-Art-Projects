@@ -34,6 +34,10 @@ BLAH BLAH BLAH
 <img src="ExternalLocusOfControl.jpg" width=600> 
 <img src="Mine.png" width=600> 
 
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Sel-ina/My-Art-Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
