@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Art Projects Page!
+
+Over the years, I have become more and more invested in the creativity that is art! Art is so freeing, delicately drifting me off to a happy world of comfort when the real world isn't.  Going on with the show, I will be showing off some of the art pieces I am most proud of! Let's GO!
+
+
 
 You can use the [editor on GitHub](https://github.com/Sel-ina/My-Art-Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
